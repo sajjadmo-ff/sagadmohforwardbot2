@@ -25,10 +25,6 @@ past:
   delay: 10 # wait for 3s after forwarding each message
 
 plugins:
-  # specify the plugins you want to use
-  filter:
-    text:
-      blacklist: ["badword"]
 
 # read full documentation of plugins here https://git.io/J3NuC
 
