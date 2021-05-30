@@ -11,7 +11,7 @@
 
 forwards:
   # this section defines all the sources and destinations
-  - source: -1001031944950 # username/link/chatid of the source
+  - source: -1237356033 # username/link/chatid of the source
     dest: [-1001295665364] # list of chat ids of the destinations
     # me means, the messages will be saved in your Saved Messages in telegram
     offset: 0 # from where to start (0 means from the first message of source)
@@ -22,7 +22,7 @@ forwards:
   # add more sources if you wish
 
 past:
-  delay: 0 # wait for 3s after forwarding each message
+  delay: 10 # wait for 3s after forwarding each message
 
 plugins:
   # specify the plugins you want to use
