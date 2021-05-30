@@ -23,7 +23,8 @@ forwards:
 
 past:
   delay: 60 # wait for 3s after forwarding each message
-
+  
+plugins:
 
 # read full documentation of plugins here https://git.io/J3NuC
 
