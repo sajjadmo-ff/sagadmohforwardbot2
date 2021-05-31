@@ -22,7 +22,7 @@ forwards:
   # add more sources if you wish
 
 past:
-  delay: 5 # wait for 3s after forwarding each message
+  delay: 3 # wait for 3s after forwarding each message
   
 
 # read full documentation of plugins here https://git.io/J3NuC
