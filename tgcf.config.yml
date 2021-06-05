@@ -3,7 +3,7 @@ forwards:
 - dest:
   - -1001235484982
   end: null
-  offset: '17688'
+  offset: '0'
   source: 1237356033
 live:
   delete_on_edit: null
